@@ -1,0 +1,11 @@
+.product-title::first-letter {
+  color: red;
+  font-weight: bold;
+  font-size: 18px;
+}
+#btn{
+    width:"100px";
+     height:"50px";
+     color: white;
+     background-color: blue;
+}
